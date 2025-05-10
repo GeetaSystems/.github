@@ -2,7 +2,7 @@
 - Provide software solutions for real world problems.
 - In various fields.
 - Security, Healthcare (`soon`), Basic screenshot utility etc..
-- For more update check our [Github Page](https://github.com/Geeta-Systems)
+- For more update check our [Github Page](https://github.com/GeetaSystems)
 
 <!--
 
